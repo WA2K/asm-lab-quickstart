@@ -1,4 +1,4 @@
-##Assembly Lab Quickstart: Rapid Assembly Learning Toolkit (Windows x86 NASM) by WAIIK
+## Assembly Lab Quickstart: Rapid Assembly Learning Toolkit (Windows x86 NASM) by WAIIK
 
 This repo helps you build and run NASM Assembly files using beginner-friendly Batch scripts with little to no effort! This is a simple passion project by a student for students willing to learn Assembly without the messy setup. Based on Dr. Josh Stroschein's amazing Assembly playlist (https://www.youtube.com/@jstrosch, check him out!!!) and the "PC Assembly Language" by Paul A. Carter (https://pacman128.github.io/pcasm/).
 
