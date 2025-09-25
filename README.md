@@ -3,7 +3,7 @@
 This repo helps you build and run NASM Assembly files using beginner-friendly Batch scripts with little to no effort! This is a simple passion project by a student for students willing to learn Assembly without the messy setup. Based on Dr. Josh Stroschein's amazing Assembly playlist (https://www.youtube.com/@jstrosch, check him out!!!) and the "PC Assembly Language" by Paul A. Carter (https://pacman128.github.io/pcasm/).
 
 ## Why I made this?
-As a student, learning Assembly at first is very messy at first especially with setting up various environments. This toolkit is a simple way of making learning Assembly less intimidating yet fun and approachable for students. Additionally, it will make students be more familiar with the Command Line Interface. 
+As a student, learning Assembly at first is very messy especially with setting up various environments. This toolkit is a simple way of making learning Assembly less intimidating yet fun and approachable for students. Additionally, it will make students be more familiar with the Command Line Interface. 
 
 ## What is this?
 Ever find setting up environments tiring? Well not anymore! With these batch scripts, you can:
